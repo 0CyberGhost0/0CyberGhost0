@@ -1,5 +1,8 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Ved</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/male-programmer-doing-coding-work-9560195-7793573.mp4"> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
